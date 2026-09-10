@@ -1,4 +1,5 @@
-<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/0af2fec9-5d31-4be8-b27a-1782cc5ab685" />
+<img width="539" height="200" alt="image" src="https://github.com/user-attachments/assets/ecdb0162-1813-4b93-a87f-e2f3416ffca9" />
+
 
 
 [strawpage](https://yuuttaaa.straw.page)
